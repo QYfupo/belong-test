@@ -24,4 +24,4 @@ git push -u orign master
 2. 听歌
 3. 撸猫
 4. 偶尔学学习
-![我的猫]()
+![我的猫](my%20cat.jpg)
